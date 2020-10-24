@@ -28,7 +28,7 @@
   and (-webkit-device-pixel-ratio: 4) {
 
     body{
-        background-image: url("./mb_bg.jpg");
+        background-image: url("https://github.com/abhishek622/Project2_FCC.github.io/blob/main/mb_bg.jpg?raw=true");
         background-repeat: no-repeat; 
         background-size: cover;
         overflow-x: hidden;
@@ -50,7 +50,7 @@
   and (-webkit-min-device-pixel-ratio: 1) { 
 
     body{
-        background-image: url("./desk_bg.jpg");
+        background-image: url("https://github.com/abhishek622/Project2_FCC.github.io/blob/main/desk_bg.jpg?raw=true");
         background-repeat: no-repeat; 
         background-size: cover;
         width: 100%;
