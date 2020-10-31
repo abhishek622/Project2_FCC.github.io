@@ -1,3 +1,6 @@
+body{
+    background-color:  rgb(8, 48, 58);
+}
 #main{
     font-family: 'Ubuntu', sans-serif;
     color: white;
@@ -5,7 +8,7 @@
 
 #survey-form{
     text-align: justify;
-    background-color: rgba(0, 68, 85, 0.97);
+    background-color: rgba(15, 115, 139, 0.97);
     padding: 20px 20px;
     line-height: 1.5;
     
@@ -28,7 +31,6 @@
   and (-webkit-device-pixel-ratio: 4) {
 
     body{
-        background-image: url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-1.2.1&auto=format&fit=crop&w=2027&q=80");
         background-repeat: no-repeat; 
         background-size: cover;
         overflow-x: hidden;
@@ -50,7 +52,6 @@
   and (-webkit-min-device-pixel-ratio: 1) { 
 
     body{
-        background-image: url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-1.2.1&auto=format&fit=crop&w=2027&q=80");
         background-repeat: no-repeat; 
         background-size: cover;
         width: 100%;
